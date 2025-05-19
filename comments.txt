@@ -1,0 +1,2 @@
+pure functions = it won't write nor read from blockchain, it is ligher than view
+payable = who calls function, can send value with the function in msg.value 
